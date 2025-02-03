@@ -20,7 +20,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) Model** for a *
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/LokeshKumarTelagamalla/rag-qa-bot.git  
+git clone https://github.com/LokeshKumarTelagamalla/rag-qa-bot.git
 cd rag-qa-bot  
 ```
 
